@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/text_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/pyramids"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/archivo_black"
+        android:gravity="center"
+        android:text="header"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/list_item_margin_left"
+        android:fontFamily="@font/yatra_one"
+        android:text="description of header"
+        android:textSize="17sp" />
+    <TextView
+        android:id="@+id/link"
+        android:autoLink="web"
+        android:textColorLink="@color/link_color"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="www.text.com"
+        android:layout_marginLeft="@dimen/list_item_margin_left"
+        android:textSize="12sp"/>
+
+</LinearLayout>

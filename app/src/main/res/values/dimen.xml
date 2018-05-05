@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_margin_left">10dp</dimen>
+    <dimen name="activity_main_margin">10dp</dimen>
+    <dimen name="toolbar_height">35dp</dimen>
+    <dimen name="tabLayout_hieht">30dp</dimen>
+
+
+</resources>

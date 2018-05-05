@@ -1,0 +1,42 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Egypt Guide</string>
+    <string name="pyramids">Built during a time when Egypt was one of the richest and most powerful civilizations in the world, the pyramids—especially the Great Pyramids of Giza—are some of the most magnificent man-made structures in history.</string>
+    <string name="pyramids_link">https://www.tripadvisor.com/Hotel_Review-g294202-d2074035-Reviews-Pyramids_View_Inn-Giza_Giza_Governorate.html</string>
+    <string name="abu_simbel">Abu Simbel, site of two temples built by the Egyptian king Ramses II,Construction of the temple complex started in approximately 1264 BC and lasted for about 20 years,located in Aswān,southern Egypt.</string>
+    <string name="abu_simbel_link">https://www.tripadvisor.com/Tourism-g297540-Abu_Simbel_Aswan_Governorate_Nile_River_Valley-Vacations.html</string>
+    <string name="hatshepsut">The Temple of Hatshepsut is not only a memorial temple that honors Queen Hatshepsut, it is also one of the greatest Egyptian architectural achievements. Designed by Senenmut (Hatshepsut’s steward and architect), this mortuary temple closely resembles the classical Greek architecture of 1,000 years later.</string>
+    <string name="hatshepsut_link">https://www.tripadvisor.com/Attraction_Review-g294205-d318962-Reviews-Temple_of_Hatshepsut_at_Deir_el_Bahari-Luxor_Nile_River_Valley.html</string>
+    <string name="karnak">Karnak is an ancient Egyptian temple precinct located on the east bank of the Nile River in Thebes (modern-day Luxor). It covers more than 100 hectares,Construction at Karnak started by 4,000 years ago and continued up until the time the Romans took control of Egypt, about 2,000 years ago.</string>
+    <string name="karnak_link">https://www.tripadvisor.com/AttractionProductDetail-g294205-d11455789-Karnak</string>
+    <string name="luxor">Luxor Temple is a large Ancient Egyptian temple complex located on the east bank of the Nile River in the city today known as Luxor (ancient Thebes) and was constructed approximately 1400 BCE</string>
+    <string name="luxor_link">https://www.tripadvisor.com/Attraction_Review-g294205-d318954-Reviews-Luxor_Temple-Luxor_Nile_River_Valley.html</string>
+    <string name="saladin_citadel">The Citadel was fortified by the Ayyubid ruler Salah al-Din (Saladin) between 1176 and 1183 CE, to protect cairo from the Crusaders.</string>
+    <string name="saladin_citadel_link">https://www.tripadvisor.com/AttractionProductDetail-g294201-d12464989-Private_Tour_to_Saladin_Citadel_and_Egyptian_Cooking_Class_in_Cairo-Cairo_Cairo_Governorate.html?from_tpa=true</string>
+    <string name="muizz_street">Muizz Street (Al Moez Ldin Allah Al Fatimi Street in Islamic Cairo, Egypt is one of the oldest streets in Cairo, approximately one kilometer long. A United Nations study found it to have the greatest concentration of medieval architectural treasures in the Islamic world.</string>
+    <string name="muizz_street_link">https://www.tripadvisor.com/Attraction_Review-g294201-d1015353-Reviews-Sharia_Al_Mu_izz_Li_Din_Allah-Cairo_Cairo_Governorate.html</string>
+    <string name="khan_el_khalili">Khan el-Khalili is a major souk in the historic center of Islamic Cairo. The bazaar district is one of Cairo main attractions for tourists and Egyptians alike.</string>
+    <string name="khan_el_khalili_link">https://www.tripadvisor.com/Attraction_Review-g294201-d308884-Reviews-Khan_Al_Khalili-Cairo_Cairo_Governorate.html</string>
+    <string name="sultan_hassan_mosque">The Mosque-Madrassa of Sultan Hassan is a massive mosque and madrassa located in the Old city of Cairo, it was built during the Mamluk Islamic era in Egypt. Its construction began 757 AH/1356 CE.</string>
+    <string name="sultan_hassan_mosque_link">https://en.wikipedia.org/wiki/Mosque-Madrassa_of_Sultan_Hassan</string>
+    <string name="qaitbay_citadel">The Citadel of Qaitbay is a 15th-century defensive fortress located on the Mediterranean sea coast, in Alexandria, Egypt. It was established in 1477 AD (882 AH) by Sultan Al-Ashraf Sayf al-Din Qait Bay.</string>
+    <string name="qaitbay_citadel_link">https://en.wikipedia.org/wiki/Citadel_of_Qaitbay</string>
+    <string name="al_azhar_mosque">is an Egyptian mosque in Islamic Cairo. Al-Muizz li-Din Allah of the Fatimid dynasty commissioned its construction for the newly established capital city in 970,the mosque slowly developed into what is today the second oldest continuously run university in the world after Al Karaouine.</string>
+    <string name="al_azhar_mosque_link">https://en.wikipedia.org/wiki/Al-Azhar_Mosque</string>
+    <string name="amr_ibn_alas_mosque">Mosque of Amr, was originally built in 641–642 AD, as the center of the newly founded capital of Egypt, Fustat. The original structure was the first mosque ever built in Egypt and the whole of Africa.</string>
+    <string name="amr_ibn_alas_mosque_link">https://en.wikipedia.org/wiki/Mosque_of_Amr_ibn_al-As</string>
+    <string name="sharm_el_sheikh">"The southern coast of the Gulf of Aqaba, between Tiran Island and Ras Mohammed National Park, features some of the world’s most amazing underwater scenery. The crystal-clear waters and incredible variety of exotic fish darting in and out of the colourful coral reefs have made this a scuba-diving paradise. Purpose-built Sharm El Sheikh occupies a prime position here, devoting itself solely to sun-and-sea holidays offering a family-friendly vibe and resort comforts, with world-class diving thrown in.</string>
+    <string name="sharm_el_sheikh_link">https://www.tripadvisor.com/Attractions-g297555-Activities-Sharm_El_Sheikh_South_Sinai_Red_Sea_and_Sinai.html</string>
+    <string name="egyptian_museum">the Egyptian Museum,in Cairo, Egypt, is home to an extensive collection of ancient Egyptian antiquities. It has 120,000 items, with a representative amount on display, the remainder in storerooms. The edifice is one of the largest museums in the region.</string>
+    <string name="egyptian_museum_link">https://www.tripadvisor.com/Attraction_Review-g294201-d308825-Reviews-Egyptian_Antiquities_Museum-Cairo_Cairo_Governorate.html</string>
+    <string name="nile_cruise">Cruises are offered along the Nile ranging from short tours between Luxor and Aswan to longer cruises.Many cruises are aboard a larger vessel that functions as a floating hotel. Other Nile trips can be on a felucca, a traditional sailboat, on which overnight journeys may require passengers to sleep in the open air on deck and the sailors to double as cooks.</string>
+    <string name="nile_cruise_link">https://www.booking-tours.com/tours/Nile-Cruise-4-days-from-Cairo?</string>
+    <string name="cairo_tower">The Cairo Tower is a free-standing concrete tower located in Cairo, Egypt. At 187 m (614 ft),Build from 1954 to 1961,The tower is crowned by a circular observation deck and a rotating restaurant with a view over greater Cairo.</string>
+    <string name="cairo_tower_link">https://en.wikipedia.org/wiki/Cairo_Tower</string>
+    <string name="bibliotheca_alexandrina">The Bibliotheca Alexandrina (English: Library of Alexandria) is a major library and cultural center located on the shore of the Mediterranean Sea in the Egyptian city of Alexandria. It is both a commemoration of the Library of Alexandria that was lost in antiquity, and an attempt to rekindle something of the brilliance that this earlier center of study and erudition represented.</string>
+    <string name="bibliotheca_alexandrina_link">https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina</string>
+    <string name="hurghada">Hurghada It is one of the country\'s main tourist centets located on the Red Sea coast.Holiday villages and hotels provide aquatic sport facilities for windsurfers, kitesurfers, yachtsmen, scuba divers and snorkelers. Hurghada is known for its watersports activities, nightlife and warm weather.</string>
+    <string name="hurghada_link">https://www.tripadvisor.com/Attractions-g297549-Activities-Hurghada_Red_Sea_and_Sinai.html</string>
+    <string name="siwa_oasis">Massages, hot springs, a completely solar powered city, a global destination for medical Tourism, a UNESCO world heritage site, and much more. This is a how Siwa is becoming not just a major Egyptian city, but a major destination for world Tourism.</string>
+    <string name="siwa_oasis_link">https://www.tripadvisor.com/Tourism-g303857-Siwa_Matrouh_Governorate-Vacations.html</string>
+</resources>
